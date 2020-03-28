@@ -4,12 +4,6 @@
 
 <br>
 
-<div align="center">
-
-<space><space>
-[![Coverage Status](https://img.shields.io/coveralls/github/maikjr/hitips.svg?color=%237159c1)](https://coveralls.io/github/maikjr/hitips?branch=master)
-
-</div>
 
 ## Overview
 
