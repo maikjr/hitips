@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.5",
     "string-similarity": "^4.0.1",
     "xml2js": "^0.4.23"
